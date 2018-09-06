@@ -29,4 +29,5 @@ _För att klona ett repository måste du först ha kört kommandot_ ` git init `
 
 ## Slutsatser
 Git kan kännas skrämmande till en början men när man väl sätter sig in i det så är det inte så farligt. Det finns mycket att lära sig inom Git men med ett antal baskommandon så kan man komma långt och ta del av alla fördelar som Git ger.  
+
 Markdown är ett mycket smidigt sätt att strukturera upp ett dokument på. Man slipper koda direkt i HTML och det är _mycket_ snabbt och lätt.
