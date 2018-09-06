@@ -23,8 +23,9 @@ Vi har även börjat titta på märkspråket **Markdown** som denna text-fil är
 En fråga i uppgiften lyder:  
 > Vilket kommando behöver jag använda i terminalen/kommandoprompten för att klona ditt repository till min dator?
 
-**Svar:** ` git pull https://github.com/Devsper/w3-moment1.git `[^test]
-[^test]: För att klona ett repository måste du först ha kört kommandot ` git init ` i katalogen där projektet ska klonas.
+**Svar:** ` git pull https://github.com/Devsper/w3-moment1.git `
+
+<small>_För att klona ett repository måste du först ha kört kommandot ` git init ` i katalogen där projektet ska klonas._</small>
 
 ## Slutsatser
 Git kan kännas skrämmande till en början men när man väl sätter sig in i det så är det inte så farligt. Det finns mycket att lära sig inom Git men med ett antal baskommandon så kan man komma långt och ta del av alla fördelar som Git ger.  
