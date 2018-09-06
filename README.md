@@ -17,6 +17,11 @@ Vi har fått svara på flera frågor bland annat att förklara begreppen:
 ### Markdown
 Vi har även börjat titta på märkspråket **Markdown** som denna text-fil är byggd på.
 
+### Klona repository
+
+En fråga i uppgiften lyder:  
+> Vilket kommando behöver jag använda i terminalen/kommandoprompten för att klona ditt repository till min dator?
+
 ## Slutsatser
 1. Git kan kännas skrämmande till en början men när man väl sätter sig in i det så är det inte så farligt. Det finns mycket att lära sig inom Git men med ett antal baskommandon så kan man komma långt och ta del av alla fördelar som Git ger.
 2. Markdown är ett mycket smidigt sätt att strukturera upp ett dokument på. Man slipper koda direkt i HTML och det är _mycket_ snabbt och lätt.
