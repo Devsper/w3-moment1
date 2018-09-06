@@ -25,7 +25,7 @@ En fråga i uppgiften lyder:
 
 **Svar:** ` git pull https://github.com/Devsper/w3-moment1.git `
 
-<small>_För att klona ett repository måste du först ha kört kommandot ` git init ` i katalogen där projektet ska klonas._</small>
+_För att klona ett repository måste du först ha kört kommandot_ ` git init ` _i katalogen där projektet ska klonas._
 
 ## Slutsatser
 Git kan kännas skrämmande till en början men när man väl sätter sig in i det så är det inte så farligt. Det finns mycket att lära sig inom Git men med ett antal baskommandon så kan man komma långt och ta del av alla fördelar som Git ger.  
